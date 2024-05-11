@@ -72,7 +72,7 @@ for source in log_sources:
 log.setLevel(SRC_LOG_LEVELS["CONFIG"])
 
 
-WEBUI_NAME = os.environ.get("WEBUI_NAME", "PogManAI")
+WEBUI_NAME = os.environ.get("WEBUI_NAME", "yea bro AI")
 
 WEBUI_URL = os.environ.get("WEBUI_URL", "http://localhost:3000")
 
