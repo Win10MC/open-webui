@@ -135,8 +135,8 @@
 			{/if}{$i18n.t('Created by')}
 			<a
 				class=" text-gray-500 dark:text-gray-300 font-medium"
-				href="https://github.com/tjbck"
-				target="_blank">Timothy J. Baek</a
+				href="https://github.com/win10mc"
+				target="_blank">yea bro</a
 			>
 		</div>
 	</div>
